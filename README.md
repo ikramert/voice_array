@@ -28,7 +28,9 @@ _Rahzel_, un beatboxer, qui a participé à une performance spéciale explorant 
 
 
 ## Une composante centrale à l'œuvre et son fonctionnement
-...![intercom](https://github.com/user-attachments/assets/60ab8e08-9d28-4e24-995f-8090f4cde889)
+L'intercom qui permet aux spectateurs d'enregistrer leur voix ![intercom](https://github.com/user-attachments/assets/60ab8e08-9d28-4e24-995f-8090f4cde889)
+
+
 
 Dans _Voice Array_, l'intercom est essentiel. Il permet aux gens d'enregistrer leur voix, qui est ensuite transformée en lumières sur des LEDs. Chaque voix s'ajoute aux précédentes et est ensuite vue et entendue dans l'installation.
 
