@@ -1,6 +1,6 @@
 # Voice Array
 
-##Auteur
+**Auteur**
 Rafael Lozano-Hemmer
 
 ##Collaborateurs et partenaires
