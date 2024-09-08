@@ -3,7 +3,7 @@
 
 
 
-## ## Auteur
+## Auteur
 Rafael Lozano-Hemmer
 
 ##Collaborateurs et partenaires
