@@ -10,7 +10,7 @@ Rafael Lozano-Hemmer
 Le _musee de Sydney_ ou loeuvre a ete expose. 
 _Bitforms gallery_, une galerie spécialisée dans l'art numérique, qui a contribué à la production et à la présentation de l'installation. La galerie a soutenu l'artiste en tant que consultant artistique, contribuant à la gestion et à la promotion de l'installation.
 _Rahzel_, un beatboxer, qui a participé à une performance spéciale explorant l'interaction entre le beatboxing et l'installation lumineuse et sonore.
-...
+
 
 
 
