@@ -12,7 +12,7 @@ _Bitforms gallery_, une galerie spécialisée dans l'art numérique, qui a contr
 _Rahzel_, un beatboxer, qui a participé à une performance spéciale explorant l'interaction entre le beatboxing et l'installation lumineuse et sonore.
 
 
-
+---
 
 ## Contexte de présentation
 
@@ -24,9 +24,9 @@ _Rahzel_, un beatboxer, qui a participé à une performance spéciale explorant 
 ***Voice Array*** est une installation interactive créée par l'artiste Rafael Lozano-Hemmer. Les participants peuvent enregistrer leur voix via un interphone. Chaque voix est transformée en motifs lumineux sur une rangée de LEDs. À chaque nouvelle voix, les précédentes sont décalées. Quand la première voix atteint la fin, elle est rejouée avec des lumières synchronisées.L'installation accumule ainsi les enregistrements, créant un paysage sonore collectif.
 
 
+![ezgif-1-b42dad5663](https://github.com/user-attachments/assets/73cde7ee-a241-4b86-b477-2261ad7011be)
 
-
-
+---
 ## Une composante centrale à l'œuvre et son fonctionnement
 L'intercom qui permet aux spectateurs d'enregistrer leur voix ![intercom](https://github.com/user-attachments/assets/60ab8e08-9d28-4e24-995f-8090f4cde889)
 
