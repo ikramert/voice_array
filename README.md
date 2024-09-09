@@ -76,7 +76,7 @@ L'œuvre accumule les enregistrements de manière progressive, créant ainsi une
 ---
 
 
-## Composante centrale à l'œuvre
+### Composante centrale à l'œuvre
 
 ![voice_array_london_2014_gs_008](https://github.com/user-attachments/assets/54a98a06-6778-437c-8f66-ae930aa6c180).
 
@@ -88,7 +88,7 @@ Dans *_Voice Array_*, l'intercom est essentiel. Il permet aux gens d'enregistrer
 ---
 
 
-## Techniques utilisés  
+### Techniques utilisés  
 - *Interphone*
 - *Rangée de lumières (généralement LED)*
 - *Haut-parleur holosonique*
