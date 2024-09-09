@@ -50,6 +50,7 @@ L'installation vise à engager le public dans une réflexion sur l'importance de
 
 L'œuvre accumule les enregistrements de manière progressive, créant ainsi une sorte de paysage sonore collectif et évolutif. Cette installation met en avant l'idée de participation communautaire, où chaque voix contribue à une œuvre d'art collective et dynamique​
 
+![ezgif-1-b42dad5663](https://github.com/user-attachments/assets/8daed1d8-abbd-42bb-a98d-69230f1e38b4)
 
 ![voice_array_london_2014_gs_006](https://github.com/user-attachments/assets/b127fa63-d85e-4ca2-a7d0-8a69a371e078)
 
