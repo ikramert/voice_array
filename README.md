@@ -64,8 +64,10 @@ Interface utilisateur : L'installation peut inclure une interface simple pour gu
 
 
 ## Une composante centrale à l'œuvre
-L'intercom qui permet aux spectateurs d'enregistrer leur voix
-![voice_array_london_2014_gs_008](https://github.com/user-attachments/assets/54a98a06-6778-437c-8f66-ae930aa6c180)
+
+![voice_array_london_2014_gs_008](https://github.com/user-attachments/assets/54a98a06-6778-437c-8f66-ae930aa6c180).
+
+L'intercom qui permet aux spectateurs d'enregistrer leur voix.
 
 Dans *_Voice Array_*, l'intercom est essentiel. Il permet aux gens d'enregistrer leur voix, qui est ensuite transformée en lumières sur des LEDs. Chaque voix s'ajoute aux précédentes et est ensuite vue et entendue dans l'installation.
 
