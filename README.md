@@ -9,25 +9,28 @@ _Rafael Lozano-Hemmer_ est un artiste d'origine mexicaine-canadienne, reconnu po
 ![rlh_portrait original](https://github.com/user-attachments/assets/8423ec7e-f562-451b-a28a-d8db4bf24ce2)
 
 ---
+
+
+
+
 ## Collaborateurs et partenaires
 - **Le _musée de Sydney_ ou l'oeuvre a été exposé. [Musée d'art contemporain Sydney](https://www.mca.com.au/stories-and-ideas/director-director-museums-around-world/?utm_source=Google_Ads&utm_medium=CPC&utm_campaign=MCA_Search_Stories_%26_Ideas&gad_source=1&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-Knwnfx9D2PZkE4BOcyQ7Ay0ItuSxUPMLrxQu5o6rG0FmlDc4u-hfIaAgDwEALw_wcB)**
 -  **_Bitforms gallery_ , une galerie spécialisée dans l'art numérique, qui a contribué à la production et à la présentation de l'installation. La galerie a soutenu l'artiste en tant que consultant artistique, contribuant à la gestion et à la promotion de l'installation. [Bitforms Gallery](https://bitforms.art/)**
-- **_Rahzel_** un beatboxer de New York City, qui a participé à une performance spéciale explorant l'interaction entre le beatboxing et l'installation lumineuse et sonore.**
-
-
-Rafael Lozano-Hemmer, "Voice Array, Subsculture 13", 2012.[VoiceArray_NYC_2012_ND_002](https://github.com/user-attachments/assets/5f95bea0-be1b-4b3c-b2fa-1f9a225145e2)
-
+- **_Rahzel_** un beatboxer de New York City, qui a participé à une performance spéciale explorant l'interaction entre le beatboxing et l'installation lumineuse et sonore.** [VoiceArray_NYC_2012_ND_002](https://github.com/user-attachments/assets/5f95bea0-be1b-4b3c-b2fa-1f9a225145e2)
 
 
 Le travail technique autour du son et des lumières a été réalisé avec des collaborateurs spécialisés dans les technologies interactives, bien que les noms spécifiques ne soient pas toujours mentionnés publiquement.
 
 ---
 
+
 ## Objectif de l'oeuvre
 
 L'œuvre met l'accent sur l'idée de mémoire collective, où les voix des participants s'accumulent et se superposent, formant une sorte d'archive sonore et visuelle. Elle explore aussi les thèmes de la participation et de la relation entre la technologie et l'humanité.
 L'installation vise à engager le public dans une réflexion sur l'importance de l'expression individuelle tout en contribuant à une œuvre d'art commune et évolutive.
 
+
+---
 
 
 ## Description de l'œuvre
@@ -44,6 +47,7 @@ L'œuvre accumule les enregistrements de manière progressive, créant ainsi une
 
 ---
 
+
 ## Fonctionnement de l'oeuvre
 - _*Microphones*_ : L'installation utilise plusieurs microphones disposés pour capter la voix des visiteurs. Ces microphones sont souvent directionnels pour isoler les sons de l'environnement.
 
@@ -56,7 +60,7 @@ L'œuvre accumule les enregistrements de manière progressive, créant ainsi une
 - _*Équipement de projection*_ : Des projecteurs sont utilisés pour afficher les visualisations sur la surface prévue (mur, écran, etc.). La résolution et la qualité des projections sont optimisées pour offrir une expérience immersive.
 
 Interface utilisateur : L'installation peut inclure une interface simple pour guider les visiteurs sur la manière d'interagir avec l'œuvre, bien que l'accent soit mis sur l'intuitivité et l'exploration libre.
-
+---
 
 
 ## Une composante centrale à l'œuvre
@@ -65,24 +69,35 @@ L'intercom qui permet aux spectateurs d'enregistrer leur voix
 
 Dans *_Voice Array_*, l'intercom est essentiel. Il permet aux gens d'enregistrer leur voix, qui est ensuite transformée en lumières sur des LEDs. Chaque voix s'ajoute aux précédentes et est ensuite vue et entendue dans l'installation.
 
+
 ---
+
+
 ## Techniques utilisés  
 - *Interphone*
 - *Rangée de lumières (généralement LED)*
 - *Haut-parleur holosonique*
 - **Matériel et logiciel faits sur mesure.*
 ---
+
+
 ## Pourquoi avoir choisi cette oeuvre
 J'ai choisi l'œuvre _Voice Array_ de Rafael Lozano-Hemmer parce que c'est un artiste que j'apprécie énormément. Je voulais mettre en avant un artiste montréalais qui rayonne à l'international avec ses œuvres fascinantes. La complexité de ses créations est particulièrement attirante, et je trouve que son approche innovante de la technologie et de l'interaction enrichit l'expérience artistique.
 ---
+
+
+
 ## Médiagraphie
 - **[Rafael Lozano-Hemmer](ttps://www.lozano-hemmer.com/voice_array.php)**
 - **[Fiche technique complete](https://www.lozano-hemmer.com/texts/manuals/voice_array.pdf)**
 - **[Codaworx](https://www.codaworx.com/projects/voice-array-museum-of-contemporary-art-sydney/)**
 - **[Bitforms art](https://bitforms.art/exhibition/rafael-lozano-hemmer-voice-array/)**
 ----
-### Contacter le studio de l'artiste ###
 
+
+
+
+### Contacter le studio de l'artiste ###
 __Antimodular Research__
 4060 St-Laurent, studio 107
 Montréal, QC
