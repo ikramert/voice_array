@@ -6,6 +6,7 @@
 
 _Rafael Lozano-Hemmer_ est un artiste d'origine mexicaine-canadienne, reconnu pour ses œuvres innovantes à l'intersection de l'art, de la technologie et de l'interactivité.
 
+![rlh_portrait original](https://github.com/user-attachments/assets/8423ec7e-f562-451b-a28a-d8db4bf24ce2)
 
 ---
 ## Collaborateurs et partenaires
@@ -22,7 +23,7 @@ Le travail technique autour du son et des lumières a été réalisé avec des c
 
 ---
 
-## Objjectif de l'oeuvre
+## Objectif de l'oeuvre
 
 L'œuvre met l'accent sur l'idée de mémoire collective, où les voix des participants s'accumulent et se superposent, formant une sorte d'archive sonore et visuelle. Elle explore aussi les thèmes de la participation et de la relation entre la technologie et l'humanité.
 L'installation vise à engager le public dans une réflexion sur l'importance de l'expression individuelle tout en contribuant à une œuvre d'art commune et évolutive.
@@ -37,6 +38,8 @@ L'œuvre accumule les enregistrements de manière progressive, créant ainsi une
 
 
 ![voice_array_london_2014_gs_006](https://github.com/user-attachments/assets/b127fa63-d85e-4ca2-a7d0-8a69a371e078)
+
+![voice_array_montreal_2018_fm_002](https://github.com/user-attachments/assets/cfec6848-b347-4d79-a0b4-1ac7494f45ca)
 
 
 ---
@@ -57,10 +60,11 @@ Interface utilisateur : L'installation peut inclure une interface simple pour gu
 
 
 ## Une composante centrale à l'œuvre
-L'intercom qui permet aux spectateurs d'enregistrer leur voix: ![voice_array_london_2014_gs_008](https://github.com/user-attachments/assets/54a98a06-6778-437c-8f66-ae930aa6c180)
+L'intercom qui permet aux spectateurs d'enregistrer leur voix
+![voice_array_london_2014_gs_008](https://github.com/user-attachments/assets/54a98a06-6778-437c-8f66-ae930aa6c180)
 
+Dans *_Voice Array_*, l'intercom est essentiel. Il permet aux gens d'enregistrer leur voix, qui est ensuite transformée en lumières sur des LEDs. Chaque voix s'ajoute aux précédentes et est ensuite vue et entendue dans l'installation.
 
-Dans _Voice Array_, l'intercom est essentiel. Il permet aux gens d'enregistrer leur voix, qui est ensuite transformée en lumières sur des LEDs. Chaque voix s'ajoute aux précédentes et est ensuite vue et entendue dans l'installation.
 ---
 ## Techniques utilisés  
 - *Interphone*
