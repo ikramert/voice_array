@@ -60,6 +60,8 @@ L'œuvre accumule les enregistrements de manière progressive, créant ainsi une
 - _*Équipement de projection*_ : Des projecteurs sont utilisés pour afficher les visualisations sur la surface prévue (mur, écran, etc.). La résolution et la qualité des projections sont optimisées pour offrir une expérience immersive.
 
 - _*Interface utilisateur*_ : L'installation a une interface simple pour guider les visiteurs sur la manière d'interagir avec l'œuvre, bien que l'accent soit mis sur l'intuitivité et l'exploration libre.
+
+  
 ---
 
 
