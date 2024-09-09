@@ -25,6 +25,8 @@ Rafael Lozano-Hemmer est un artiste d'origine mexicaine-canadienne, reconnu pour
 ## Description de l'œuvre
 ***Voice Array*** est une installation interactive créée par l'artiste Rafael Lozano-Hemmer. Les participants peuvent enregistrer leur voix via un interphone. Chaque voix est transformée en motifs lumineux sur une rangée de LEDs. À chaque nouvelle voix, les précédentes sont décalées. Quand la première voix atteint la fin, elle est rejouée avec des lumières synchronisées.L'installation accumule ainsi les enregistrements, créant un paysage sonore collectif.
 
+L'œuvre accumule les enregistrements de manière progressive, créant ainsi une sorte de paysage sonore collectif et évolutif. Cette installation met en avant l'idée de participation communautaire, où chaque voix contribue à une œuvre d'art collective et dynamique​
+
 
 ![ezgif-1-b42dad5663](https://github.com/user-attachments/assets/73cde7ee-a241-4b86-b477-2261ad7011be)
 
