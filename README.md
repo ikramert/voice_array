@@ -8,21 +8,32 @@ _Rafael Lozano-Hemmer_ est un artiste d'origine mexicaine-canadienne, reconnu po
 
 ![rlh_portrait original](https://github.com/user-attachments/assets/8423ec7e-f562-451b-a28a-d8db4bf24ce2)
 
----
 
-
-
-
-## Collaborateurs et partenaires
+### Collaborateurs et partenaires
 - **Le _musée de Sydney_ ou l'oeuvre a été exposé. [Musée d'art contemporain Sydney](https://www.mca.com.au/stories-and-ideas/director-director-museums-around-world/?utm_source=Google_Ads&utm_medium=CPC&utm_campaign=MCA_Search_Stories_%26_Ideas&gad_source=1&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-Knwnfx9D2PZkE4BOcyQ7Ay0ItuSxUPMLrxQu5o6rG0FmlDc4u-hfIaAgDwEALw_wcB)**
 -  **_Bitforms gallery_ , une galerie spécialisée dans l'art numérique, qui a contribué à la production et à la présentation de l'installation. La galerie a soutenu l'artiste en tant que consultant artistique, contribuant à la gestion et à la promotion de l'installation. [Bitforms Gallery](https://bitforms.art/)**
 - **_Rahzel_** un beatboxer de New York City, qui a participé à une performance spéciale explorant l'interaction entre le beatboxing et l'installation lumineuse et sonore. [VoiceArray_NYC_2012_ND_002](https://github.com/user-attachments/assets/5f95bea0-be1b-4b3c-b2fa-1f9a225145e2)
 
-
 Le travail technique autour du son et des lumières a été réalisé avec des collaborateurs spécialisés dans les technologies interactives, bien que les noms spécifiques ne soient pas toujours mentionnés publiquement.
 
----
+### Ou ?
 
+**Lieu de présentation initiale :**  
+_Voice Array_ de Rafael Lozano-Hemmer a été présentée pour la première fois en 2011 à la galerie *bitforms* à New York.
+
+**Contexte géographique et culturel :**  
+La présentation de "Voice Array" à New York, une métropole mondiale, a influencé son impact culturel. La ville est un carrefour de diversité et d'innovation, et l'œuvre engage le public en fusionnant les voix individuelles dans une expérience collective. Cette interactivité souligne des thèmes comme la mémoire et la connectivité, reflétant ainsi la richesse des voix dans une société urbaine dynamique.
+
+**Autres lieux de présentation :**  
+Après sa première présentation, "Voice Array" a été exposée dans plusieurs autres endroits, notamment :  
+- **Montréal, Canada** - Musée d'art contemporain, 2013  
+- **San Francisco, USA** - SFMOMA, 2014  
+- **Madrid, Espagne** - Fundación Telefónica, 2015  
+
+Ces expositions témoignent de la portée internationale de l'œuvre et de son adaptation à différents contextes culturels.
+
+
+---
 
 ## Objectif de l'oeuvre
 
@@ -107,12 +118,12 @@ J'ai choisi l'œuvre _Voice Array_ de Rafael Lozano-Hemmer parce que c'est un ar
 
 ### Contacter le studio de l'artiste ###
 __Antimodular Research__
-4060 St-Laurent, studio 107
+- 4060 St-Laurent, studio 107
 Montréal, QC
 H2W 1Y9 Canada
-Tel 1-514-597-0917
-Fax 1-514-597-2092
-info@antimodular.com
-www.antimodular.com
+- Tel 1-514-597-0917
+- Fax 1-514-597-2092
+- info@antimodular.com
+- www.antimodular.com
 
 
