@@ -1,10 +1,12 @@
 # Voice Array
-
-
-
+---
 
 ## Auteur
 Rafael Lozano-Hemmer
+
+Rafael Lozano-Hemmer est un artiste d'origine mexicaine-canadienne, reconnu pour ses œuvres innovantes à l'intersection de l'art, de la technologie et de l'interactivité.
+
+![rlh_portrait original](https://github.com/user-attachments/assets/5b51ee36-f7fc-481d-a282-ba9125e8ca09)
 
 ## Collaborateurs et partenaires
 Le _musee de Sydney_ ou loeuvre a ete expose. 
