@@ -1,7 +1,7 @@
 # Voice Array
-*Subsculpture 13*
----
+*_Subsculpture 13_*
 
+---
 ## Auteur
 
 _Rafael Lozano-Hemmer_ est un artiste d'origine mexicaine-canadienne, reconnu pour ses œuvres innovantes à l'intersection de l'art, de la technologie et de l'interactivité.
