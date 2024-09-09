@@ -36,7 +36,8 @@ L'installation vise à engager le public dans une réflexion sur l'importance de
 L'œuvre accumule les enregistrements de manière progressive, créant ainsi une sorte de paysage sonore collectif et évolutif. Cette installation met en avant l'idée de participation communautaire, où chaque voix contribue à une œuvre d'art collective et dynamique​
 
 
-![ezgif-1-b42dad5663](https://github.com/user-attachments/assets/73cde7ee-a241-4b86-b477-2261ad7011be)
+![voice_array_london_2014_gs_006](https://github.com/user-attachments/assets/b127fa63-d85e-4ca2-a7d0-8a69a371e078)
+
 
 ---
 
@@ -56,7 +57,8 @@ Interface utilisateur : L'installation peut inclure une interface simple pour gu
 
 
 ## Une composante centrale à l'œuvre
-L'intercom qui permet aux spectateurs d'enregistrer leur voix ![intercom](https://github.com/user-attachments/assets/60ab8e08-9d28-4e24-995f-8090f4cde889)
+L'intercom qui permet aux spectateurs d'enregistrer leur voix: ![voice_array_london_2014_gs_008](https://github.com/user-attachments/assets/54a98a06-6778-437c-8f66-ae930aa6c180)
+
 
 Dans _Voice Array_, l'intercom est essentiel. Il permet aux gens d'enregistrer leur voix, qui est ensuite transformée en lumières sur des LEDs. Chaque voix s'ajoute aux précédentes et est ensuite vue et entendue dans l'installation.
 ---
