@@ -9,8 +9,8 @@ Rafael Lozano-Hemmer est un artiste d'origine mexicaine-canadienne, reconnu pour
 ![rlh_portrait original](https://github.com/user-attachments/assets/5b51ee36-f7fc-481d-a282-ba9125e8ca09)
 
 ## Collaborateurs et partenaires
-Le _musee de Sydney_ ou loeuvre a ete expose. 
-_Bitforms gallery_, une galerie spécialisée dans l'art numérique, qui a contribué à la production et à la présentation de l'installation. La galerie a soutenu l'artiste en tant que consultant artistique, contribuant à la gestion et à la promotion de l'installation.
+Le _musée de Sydney_ ou loeuvre a ete expose. [Musée de Sydney](https://mhnsw.au/visit-us/museum-of-sydney/)
+_Bitforms gallery_ , une galerie spécialisée dans l'art numérique, qui a contribué à la production et à la présentation de l'installation. La galerie a soutenu l'artiste en tant que consultant artistique, contribuant à la gestion et à la promotion de l'installation. [Bitforms Gallery](https://bitforms.art/)
 _Rahzel_, un beatboxer, qui a participé à une performance spéciale explorant l'interaction entre le beatboxing et l'installation lumineuse et sonore.
 
 
