@@ -65,7 +65,7 @@ L'œuvre accumule les enregistrements de manière progressive, créant ainsi une
 ---
 
 
-## Une composante centrale à l'œuvre
+## Composante centrale à l'œuvre
 
 ![voice_array_london_2014_gs_008](https://github.com/user-attachments/assets/54a98a06-6778-437c-8f66-ae930aa6c180).
 
@@ -85,7 +85,9 @@ Dans *_Voice Array_*, l'intercom est essentiel. Il permet aux gens d'enregistrer
 ---
 
 
-## Pourquoi avoir choisi cette oeuvre
+## Pourquoi avoir choisi cette oeuvre ?
+
+
 J'ai choisi l'œuvre _Voice Array_ de Rafael Lozano-Hemmer parce que c'est un artiste que j'apprécie énormément. Je voulais mettre en avant un artiste montréalais qui rayonne à l'international avec ses œuvres fascinantes. La complexité de ses créations est particulièrement attirante, et je trouve que son approche innovante de la technologie et de l'interaction enrichit l'expérience artistique.
 ---
 
