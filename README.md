@@ -51,15 +51,15 @@ L'œuvre accumule les enregistrements de manière progressive, créant ainsi une
 ## Fonctionnement de l'oeuvre
 - _*Microphones*_ : L'installation utilise plusieurs microphones disposés pour capter la voix des visiteurs. Ces microphones sont souvent directionnels pour isoler les sons de l'environnement.
 
-- Traitement audio en temps réel : Les signaux audio captés par les microphones sont envoyés à un ordinateur, où un logiciel spécialisé traite ces signaux en temps réel. Cela implique des techniques de filtrage, de modulation et d'analyse spectrale pour transformer la voix en données exploitables.
+- _*Traitement audio en temps réel*_ : Les signaux audio captés par les microphones sont envoyés à un ordinateur, où un logiciel spécialisé traite ces signaux en temps réel. Cela implique des techniques de filtrage, de modulation et d'analyse spectrale pour transformer la voix en données exploitables.
 
-- Visualisation graphique : Les données audio traitées sont ensuite utilisées pour générer des visualisations graphiques. Ces visualisations peuvent représenter des aspects tels que la fréquence, l'intensité ou le rythme de la voix, et sont projetées sur une surface, créant ainsi une interaction entre le son et l'image.
+- _*Visualisation graphique*_ : Les données audio traitées sont ensuite utilisées pour générer des visualisations graphiques. Ces visualisations peuvent représenter des aspects tels que la fréquence, l'intensité ou le rythme de la voix, et sont projetées sur une surface, créant ainsi une interaction entre le son et l'image.
 
 - _*Interactivité*_ : Les participants peuvent interagir avec l'installation en modifiant leur voix (en jouant sur le volume, le ton, etc.), ce qui influence directement les visualisations générées. Cette interactivité est souvent réalisée grâce à des algorithmes qui réagissent en temps réel aux variations vocales.
 
 - _*Équipement de projection*_ : Des projecteurs sont utilisés pour afficher les visualisations sur la surface prévue (mur, écran, etc.). La résolution et la qualité des projections sont optimisées pour offrir une expérience immersive.
 
-Interface utilisateur : L'installation peut inclure une interface simple pour guider les visiteurs sur la manière d'interagir avec l'œuvre, bien que l'accent soit mis sur l'intuitivité et l'exploration libre.
+- _*Interface utilisateur*_ : L'installation a une interface simple pour guider les visiteurs sur la manière d'interagir avec l'œuvre, bien que l'accent soit mis sur l'intuitivité et l'exploration libre.
 ---
 
 
